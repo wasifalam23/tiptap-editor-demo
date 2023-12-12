@@ -128,7 +128,7 @@
 			</button>
 		</div>
 
-		<EditorView :output="output" />
+		<div class="mt-4" v-html="output"></div>
 	</main>
 </template>
 
