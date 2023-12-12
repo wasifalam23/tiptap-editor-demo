@@ -1,3 +1,3 @@
 <template>
-	<EditorTipTapHTML />
+	<EditorTipTap />
 </template>
